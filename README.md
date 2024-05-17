@@ -30,6 +30,7 @@ I'm a passionate **Frontend Developer** with a Bachelor's degree in Computer Sci
 
 - 💬 Ask me about frontend development, Angular, or any of the technologies I use.
 - 📫 How to reach me: [Email](mailto:Ramadaneita@gmail.com)
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/fawzy-abdelkader-hassan)
 - ⚡ Fun fact: I am passionate about solving complex problems and constantly seek new challenges to improve my skills.
 
 ---

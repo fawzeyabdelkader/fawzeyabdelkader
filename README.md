@@ -2,8 +2,9 @@
   <img width="100%"    src="https://profile-counter.glitch.me/fawzeyabdelkader/count.svg?"  />
 </div>
  <img   width="100%"   src="https://github.com/fawzeyabdelkader/fawzeyabdelkader/assets/151572713/31887704-4648-40e1-869d-91488c4be4b3 "  />
+ 
 
-
+ 
 
 ### Hi I'm   [fawzey](https://www.linkedin.com/in/fawzy-abdelkader-hassan)  👋 
 
@@ -132,6 +133,8 @@ I'm a passionate **Frontend Developer** with a Bachelor's degree in Computer Sci
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=fawzeyabdelkader&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+ 
 
  
  **Thank you for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project** 

@@ -82,4 +82,8 @@ I'm a passionate **Frontend Developer** with a Bachelor's degree in Computer Sci
 
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
+
+
+
+
  

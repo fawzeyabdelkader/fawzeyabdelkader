@@ -1,3 +1,12 @@
+
+ 
+
+
+### Hi I'm   [fawzey](https://www.linkedin.com/in/fawzy-abdelkader-hassan)  👋
+
+I'm a passionate **Frontend Developer** with a Bachelor's degree in Computer Science from Minufiya University. Currently, I'm working at **Route** where I leverage my expertise in various frontend technologies to create user-friendly and scalable interfaces.
+
+---
  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fawzeyabdelkader&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -19,14 +28,9 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
 
- 
 
 
-### Hi I'm   [fawzey](https://www.linkedin.com/in/fawzy-abdelkader-hassan)  👋
 
-I'm a passionate **Frontend Developer** with a Bachelor's degree in Computer Science from Minufiya University. Currently, I'm working at **Route** where I leverage my expertise in various frontend technologies to create user-friendly and scalable interfaces.
-
----
 
 ### About Me
 

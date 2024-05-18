@@ -1,5 +1,5 @@
+ <img   width="100%"   src="https://github.com/fawzeyabdelkader/fawzeyabdelkader/assets/151572713/31887704-4648-40e1-869d-91488c4be4b3 "  />
 
- 
 
 
 ### Hi I'm   [fawzey](https://www.linkedin.com/in/fawzy-abdelkader-hassan)  👋
@@ -11,31 +11,10 @@ I'm a passionate **Frontend Developer** with a Bachelor's degree in Computer Sci
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"  />
+<img align="right" height="250" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"  />
 
 
-<div align="left">
- <a target="_blank" href="https://www.instagram.com/f_a_w_z_e_y/"> 
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
- </a>
- <a style="text-decoration: none;" target="_blank" href="https://fawzeyabdelkader32@gmail.com">
-     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-
- </a>
-
-<a style="text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/fawzy-abdelkader-hassan/">
-   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-
-</a>
-
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-</div>
-
-
-
-
+ 
 
 ### About Me
 
@@ -96,7 +75,7 @@ I'm a passionate **Frontend Developer** with a Bachelor's degree in Computer Sci
 - **CSS3**
 - **HTML**
 
-- <div align="center">
+ <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fawzeyabdelkader&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fawzeyabdelkader&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>

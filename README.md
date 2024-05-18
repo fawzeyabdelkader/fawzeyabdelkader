@@ -94,6 +94,9 @@ I'm a passionate **Frontend Developer** with a Bachelor's degree in Computer Sci
 - **JavaScript**
 - **CSS3**
 - **HTML**
+  
+## I code with
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -131,13 +134,10 @@ I'm a passionate **Frontend Developer** with a Bachelor's degree in Computer Sci
 </div>
 
  
-
-
-Thank you for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
+ **Thank you for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project** 
 
  
-
-
+ 
 
 
 

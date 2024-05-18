@@ -1,10 +1,13 @@
+
+
+ 
+
+ ![profile](https://github.com/fawzeyabdelkader/fawzeyabdelkader/assets/151572713/0f8a81cd-7422-4a70-8f74-56d613f7ee0e)
+
 <div align="right">
   <img width="100%"    src="https://profile-counter.glitch.me/fawzeyabdelkader/count.svg?"  />
 </div>
- <img   width="100%"   src="https://github.com/fawzeyabdelkader/fawzeyabdelkader/assets/151572713/31887704-4648-40e1-869d-91488c4be4b3 "  />
- 
-
- 
+  
 
 ### Hi I'm   [fawzey](https://www.linkedin.com/in/fawzy-abdelkader-hassan)  👋 
 

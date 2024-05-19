@@ -1,9 +1,9 @@
 
 
+ ![Fawzey Abdelkader](https://github.com/fawzeyabdelkader/fawzeyabdelkader/assets/151572713/5e6b645d-2684-4a7e-b58b-0621af4e4a40)
+
+
  
-
- ![profile](https://github.com/fawzeyabdelkader/fawzeyabdelkader/assets/151572713/0f8a81cd-7422-4a70-8f74-56d613f7ee0e)
-
 <div align="right">
   <img width="100%"    src="https://profile-counter.glitch.me/fawzeyabdelkader/count.svg?"  />
 </div>

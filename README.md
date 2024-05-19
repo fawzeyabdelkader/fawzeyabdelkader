@@ -4,10 +4,7 @@
 
 
  
-<div align="right">
-  <img width="100%"    src="https://profile-counter.glitch.me/fawzeyabdelkader/count.svg?"  />
-</div>
-  
+
 
 ###     [fawzey](https://www.linkedin.com/in/fawzy-abdelkader-hassan)  👋 
 
@@ -127,18 +124,23 @@ I'm a passionate **Frontend Developer** with a Bachelor's degree in Computer Sci
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
 </div>
 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=fawzeyabdelkader&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fawzeyabdelkader&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fawzeyabdelkader&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
  
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fawzeyabdelkader&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
  
-
+<div align="right">
+  <img width="100%"    src="https://profile-counter.glitch.me/fawzeyabdelkader/count.svg?"  />
+</div>
+  
  
  **Thank you for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project** 
 

@@ -26,9 +26,9 @@ I'm a passionate **Frontend Developer** with a Bachelor's degree in Computer Sci
 - 🎓 **Education:** Bachelor's degree in Computer Science from Minufiya University.
 - 🏢 **Current Role:** Frontend Developer at Route.
 - 🛠 **Technologies I Use:**
-  - **Frameworks & Libraries:** Angular, AngularJS, jQuery, RxJS, JavaScript Libraries Typescript Libraries.
+  - **Frameworks & Libraries:** Angular, AngularJS, jQuery, RxJS, JavaScript Libraries , Typescript Libraries ,Angular Material,json-server,ANGULAR CHART.
   - **CSS:** Tailwind CSS, SASS, Bootstrap.
-  - **Tools:** npm, Figma, Adobe Illustrator, Azure DevOps Server, GitHub.
+  - **Tools:** npm, Figma, Adobe Illustrator, Azure DevOps Server, GitHub ,postman.
   - **Languages:** ECMAScript, JavaScript, HTML5, CSS3.
   - **Methodologies:** Agile Methodologies.
   - **Others:** REST APIs, AJAX, Debugging, Unit Testing.
